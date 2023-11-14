@@ -8,4 +8,4 @@ $u_1=sin(100x)$:
 
 $u_3=sin(6x)cos(100x)$:
 
-![Figure for u2](u2.png)
+![Figure for u2](u3.png)
