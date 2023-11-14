@@ -1,6 +1,6 @@
 # Solving-High-Frequency-and-Multi-Scale-PDEs-with-Gaussian-Processes
 
-### variance, error, and prediction
+## figure for variance, error, and prediction
 
 $u_1=sin(100x)$:
 
@@ -9,3 +9,7 @@ $u_1=sin(100x)$:
 $u_3=sin(6x)cos(100x)$:
 
 ![Figure for u2](u3.png)
+
+## figure for relative $L_2$ error with varying number of frequency components
+
+![components](u3.png)
