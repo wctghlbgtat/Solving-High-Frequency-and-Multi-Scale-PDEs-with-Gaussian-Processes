@@ -10,6 +10,6 @@ $u_3=sin(6x)cos(100x)$:
 
 ![Figure for u2](u3.png)
 
-## figure for relative $L_2$ error with varying number of frequency components
+## figure for relative L2 error with varying number of frequency components
 
 ![components](components.png)
